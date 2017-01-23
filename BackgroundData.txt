@@ -1,0 +1,6 @@
+UserName: gkun9931
+Password: leafgolf4
+RunFixMode: false
+RunSlideShow: true
+SlideShowTimer: M:0,S:30,MS:0
+Update: true
